@@ -29,7 +29,7 @@ python friedman-test.py
 python friedman-test.py --level 0.01
 ```
 
-別にデータを用意している場合
+- 別にデータを用意している場合
 ```
 python friedman-test.py --input "csvファイルへのパス"
 ```

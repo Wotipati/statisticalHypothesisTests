@@ -27,7 +27,7 @@ python mann-whitney-u-test.py
 python mann-whitney-u-test.py --level 0.01
 ```
 
-別にデータを用意している場合
+- 別にデータを用意している場合
 ```
 python mann-whitney-u-test.py --input "csvファイルへのパス"
 ```
