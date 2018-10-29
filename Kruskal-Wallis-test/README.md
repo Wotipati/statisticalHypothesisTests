@@ -35,5 +35,7 @@ python kruskal-wallis-test.py --input "csvファイルへのパス"
 p値(p-value)が出力される  
 有意差が観測された場合は`*`がつく
 ```
+$ python kruskal-wallis-test.py
+
 p-value = 0.00107257796923*
 ```

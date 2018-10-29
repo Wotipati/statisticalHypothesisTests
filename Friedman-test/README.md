@@ -37,5 +37,7 @@ python friedman-test.py --input "csvファイルへのパス"
 p値(p-value)が出力される  
 有意差が観測された場合は`*`がつく
 ```
+python friedman-test.py
+
 p-value = 0.000405329269196*
 ```
