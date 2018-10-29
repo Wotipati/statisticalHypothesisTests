@@ -12,8 +12,8 @@
 ```
 GroupA,2,4,3,1,2,3,3,2,3,1
 GroupB,3,5,4,2,4,3,5,5,3,2
-GroupC,2,4,3,1,2,3,3,2,3,1
-GroupD,3,5,4,2,4,3,5,5,3,2
+GroupC,2,1,1,1,2,3,2,2,2,3
+GroupD,3,4,5,2,3,3,5,2,3,5
 ```
 
 ##### 実行
@@ -35,7 +35,7 @@ python mann-whitney-u-test.py --input "csvファイルへのパス"
 p値(p-value)が出力される  
 有意差が観測されたペアには`*`がつく
 ```
-                         GroupA            GroupB            GroupC            GroupD
+       GroupA            GroupB            GroupC            GroupD
 GroupA      -  *0.0384087753285    0.968259654813  *0.0384087753285
 GroupB      -                 -  *0.0384087753285    0.968775526641
 GroupC      -                 -                 -  *0.0384087753285
