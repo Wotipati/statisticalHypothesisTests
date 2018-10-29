@@ -1,4 +1,4 @@
-# statisticalTests
+# statisticalHypothesisTests
 統計的仮説検定用スクリプト(Python)  
 
 
