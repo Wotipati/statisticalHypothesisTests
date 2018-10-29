@@ -35,9 +35,9 @@ python mann-whitney-u-test.py --input "csvファイルへのパス"
 p値(p-value)が出力される  
 有意差が観測されたペアには`*`がつく
 ```
-       GroupA            GroupB            GroupC            GroupD
-GroupA      -  *0.0384087753285    0.968259654813  *0.0384087753285
-GroupB      -                 -  *0.0384087753285    0.968775526641
-GroupC      -                 -                 -  *0.0384087753285
-GroupD      -                 -                 -                 -
+       GroupA            GroupB           GroupC             GroupD
+GroupA      -  *0.0192043876643    0.11541267853   *0.0290956779717
+GroupB      -                 -  *0.001695333779     0.437412800807
+GroupC      -                 -                -  *0.00206574468142
+GroupD      -                 -                -                  -
 ```
