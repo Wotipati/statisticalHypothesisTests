@@ -44,10 +44,9 @@ def main():
         for y1 in range(xi+1):
             table_xi.append('-')
         for group_y in group_list[xi+1:]:
-            # 両側検定
+            # 対応なしt検定
             statistic, p_value = stats.ttest_ind(group_x.data_array,group_y.data_array,equal_var=False)
-            # 片側検定
-            # statistic, p_value = stats.mannwhitneyu(group_x.data_array,group_y.data_array)
+
             if(p_value<level):
                 table_xi.append('*'+str(p_value))
             else:
