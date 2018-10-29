@@ -2,12 +2,12 @@
 統計的仮説検定用スクリプト(Python)  
 
 
-|            | パラメトリック検定 | ノンパラメトリック検定 |
+|            | パラメトリック検定<br>(Parametric test) | ノンパラメトリック検定<br>(Non-parametric test) |
 |:-----------|:------------|:------------|
-|対応なし2群| 対応なしt検定(Unpaired t test) | [マン・ホイットニーのU検定(Mann-Whitney U test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Mann-Whitney-U-test)|
-|対応あり2群| 対応ありt検定(Paired t test) | [ウィルコクソンの符号付き順位検定(Wilcoxon Signed-rank test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Wilcoxon-Signed-rank-test)|
-|対応なし他群| 分散分析(ANOVA) | [クラスカル・ウォリス検定(Kruskal-Wallis test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Kruskal-Wallis-test) |
-|対応あり他群| 反復測定分散分析(Repeated-measures ANOVA) | [フリードマン検定(Friedman test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Friedman-test) |
+|対応なし2群<br>(Compare two unpaired groups)| 対応なしt検定<br>(Unpaired t test) | [マン・ホイットニーのU検定<br>(Mann-Whitney U test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Mann-Whitney-U-test)|
+|対応あり2群<br>(Compare two paired groups)| 対応ありt検定<br>(Paired t test) | [ウィルコクソンの符号付き順位検定<br>(Wilcoxon Signed-rank test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Wilcoxon-Signed-rank-test)|
+|対応なし他群<br>(Compare more than two unpaired groups)| 分散分析<br>(ANOVA) | [クラスカル・ウォリス検定<br>(Kruskal-Wallis test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Kruskal-Wallis-test) |
+|対応あり他群<br>(Compare more than two paired groups)| 反復測定分散分析<br>(Repeated-measures ANOVA) | [フリードマン検定<br>(Friedman test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Friedman-test) |
 
 
 ### Requirement
