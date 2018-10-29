@@ -47,7 +47,7 @@ def main():
             # 両側検定
             statistic, p_value = stats.mannwhitneyu(group_x.data_array,group_y.data_array,alternative='two-sided')
             # 片側検定
-            statistic, p_value = stats.mannwhitneyu(group_x.data_array,group_y.data_array)
+            # statistic, p_value = stats.mannwhitneyu(group_x.data_array,group_y.data_array)
             if(p_value<level):
                 table_xi.append('*'+str(p_value))
             else:
