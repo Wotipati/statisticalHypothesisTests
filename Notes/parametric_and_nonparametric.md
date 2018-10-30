@@ -7,12 +7,13 @@
 - t検定, F検定などは正規分布に従うこと(正規性)を前提としている
 - 特にt検定では比較する群の分散が等しいこと(等分散性)を前提としている
 - たとえ元データが正規分布にしたがっていない場合も、等分散性が満たしている場合は中心極限定理により、標本平均の差は近似的に正規分布するため、検定自体に大きな影響は与えない
-- 等分散性はF検定を利用して検証することが可能
+- 等分散性はF検定や[ルビーン検定(Levene's-test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Levene's-test)を利用して検証することが可能
 
 例)
 - t検定([対応あり](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Paired-t-test)/[対応なし](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Unpaired-t-test))
-- F検定
 - [分散分析](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/ANOVA)
+- F検定
+- [ルビーン検定(Levene's-test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Levene's-test)
 
 
 

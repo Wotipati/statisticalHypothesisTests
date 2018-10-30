@@ -9,7 +9,6 @@ class data_group:
         self.group_name = group_name
         self.data_array = data_array
         self.mean       = np.mean(np.array(data_array))
-        self.sem        = stats.sem(np.array(data_array))
         self.sd         = np.std(np.array(data_array))
 
 

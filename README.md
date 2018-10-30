@@ -12,7 +12,7 @@
 
 ### 信頼区間の推定 (Confidence Interval Estimation)
 - [母平均の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Confidence-Interval-Estimation-for-the-Mean)
-- [母分散の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Confidence-Interval-Estimation-for-the-Varians)
+- [母分散の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Confidence-Interval-Estimation-for-the-Variance)
 
 
 ### その他(Notes)
@@ -20,7 +20,7 @@
 - ["対応あり"と"対応なし"について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/paired_and_unpaired.md)
 - [分散分析(ANOVA)について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md)
 - [パラメトリック検定"と"ノンパラメトリック検定](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/parametric_and_nonparametric.md)
-- 等分散の検定(Levene's test)
+- [等分散の検定(Levene's test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Levene's-test)
 
 
 ### Requirement
