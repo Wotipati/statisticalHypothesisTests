@@ -17,7 +17,7 @@
 
 ### Notes(メモ)
 - [仮説検定の基本的な流れについて](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_Statistical_Hypothesis_Test%3F.md)
-- "対応あり"と"対応なし"について(予定)
+- ["対応あり"と"対応なし"について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/paired_and_unpaired.md)
 - [分散分析(ANOVA)について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md)
 - "パラメトリック検定"と"ノンパラメトリック検定"(予定)
 
