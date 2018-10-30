@@ -6,7 +6,7 @@
 |:-----------|:------------|:------------|
 |**対応なし2群<br>(Compare two unpaired groups)**| [対応なしt検定<br>(Unpaired t test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Unpaired-t-test) | [マン・ホイットニーのU検定<br>(Mann-Whitney U test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Mann-Whitney-U-test)|
 |**対応あり2群<br>(Compare two paired groups)**| [対応ありt検定<br>(Paired t test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Paired-t-test) | [ウィルコクソンの符号付き順位検定<br>(Wilcoxon Signed-rank test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Wilcoxon-Signed-rank-test)|
-|**対応なし他群<br>(Compare more than two unpaired groups)**| [分散分析<br>(ANOVA)](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md#%E5%AF%BE%E5%BF%9C%E3%81%AA%E3%81%97%E4%B8%80%E5%85%83%E9%85%8D%E7%BD%AE%E5%88%86%E6%95%A3%E5%88%86%E6%9E%90) | [クラスカル・ウォリス検定<br>(Kruskal-Wallis test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Kruskal-Wallis-test) |
+|**対応なし他群<br>(Compare more than two unpaired groups)**| [分散分析<br>(ANOVA)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/ANOVA#one-way-anova) | [クラスカル・ウォリス検定<br>(Kruskal-Wallis test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Kruskal-Wallis-test) |
 |**対応あり他群<br>(Compare more than two paired groups)**| [反復測定分散分析<br>(Repeated-measures ANOVA)](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md#%E5%AF%BE%E5%BF%9C%E3%81%82%E3%82%8A%E4%B8%80%E5%85%83%E9%85%8D%E7%BD%AE%E5%88%86%E6%95%A3%E5%88%86%E6%9E%90) | [フリードマン検定<br>(Friedman test)](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Friedman-test) |
 
 
