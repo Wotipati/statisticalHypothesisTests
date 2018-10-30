@@ -1,4 +1,4 @@
-# t-Stats-Confidence-Interval
+# Confidence-Interval-Estimation-for-the-Mean
 t分布を用いた母平均の信頼区間推定
 - 95%信頼区間 = 「母平均が信頼区間に95%の確率で含まれる」
 
@@ -16,22 +16,22 @@ GroupB,3,5,4,2,4,3,5,5,3,2
 ##### 実行
 - 95%信頼区間の推定
 ```
-python t-stats-confidence-interval.py
+python confidence-interval-estimation-for-the-mean.py
 ```
 - 有意水準を設定したい場合(例:99%信頼区間の推定)
 ```
-python mann-whitney-u-test.py --confidence 0.99
+python confidence-interval-estimation-for-the-mean.py --confidence 0.99
 ```
 
 - 別にデータを用意している場合
 ```
-python mann-whitney-u-test.py --input "csvファイルへのパス"
+python confidence-interval-estimation-for-the-mean.py --input "csvファイルへのパス"
 ```
 
 ##### 結果
 標本の平均(mean), 標準偏差(SD), 信頼区間(confidence interval)が出力される
 ```
-$ python t-stats-confidence-interval.py
+$ python confidence-interval-estimation-for-the-mean.py
 
 GroupA
 mean: 2.4, SD: 0.9165151389911681

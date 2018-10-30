@@ -11,8 +11,8 @@
 
 
 ### 信頼区間の推定 (Confidence Interval Estimation)
-- [母平均の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/t-Stats-Confidence-Interval)
-- 母分散の信頼区間推定(予定)
+- [母平均の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Confidence-Interval-Estimation-for-the-Mean)
+- [母分散の信頼区間推定](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/Confidence-Interval-Estimation-for-the-Varians)
 
 
 ### その他(Notes)
