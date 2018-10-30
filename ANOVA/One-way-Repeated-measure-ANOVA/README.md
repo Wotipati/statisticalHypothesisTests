@@ -1,7 +1,7 @@
-# One-way-ANOVA
-- 対応なし一元配置分散分析  
-(ANOVAについての詳細な説明は[分散分析(ANOVA)について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md)を参照)  
-(対応なし二元配置分散分析は[こちら](https://github.com/Wotipati/statisticalHypothesisTests/tree/master/ANOVA/Two-way-Anova))
+#One-way-ANOVA
+対応なし一元配置分散分析  
+(ANOVAについての詳細な説明は[分散分析(ANOVA)について](https://github.com/Wotipati/statisticalHypothesisTests/blob/master/Notes/What_is_ANOVA%3F.md)を参照)
+
 
 ### 使い方
 ##### データの準備
