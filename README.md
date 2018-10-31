@@ -32,3 +32,6 @@
 #### References
 - [Statistical Methods for HCI Research by Koji Yatani](http://yatani.jp/teaching/doku.php?id=hcistats:start)
 - [入門 統計学 −検定から多変量解析・実験計画法まで−](http://shop.ohmsha.co.jp/shopdetail/000000001900/)
+
+#### License
+MIT License, Seita Kayukawa (Wotipati)
