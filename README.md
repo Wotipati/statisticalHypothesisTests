@@ -2,7 +2,7 @@
 統計的仮説検定&信頼区間推定用スクリプト(Python)  
 
 
-![scipy](https://img.shields.io/badge/scipy-0.19.1-orange.svg)
+![scipy](https://img.shields.io/badge/scipy-0.19.1-blue.svg)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 ### 統計的仮説検定 (Statistical Hypothesis Tests)
