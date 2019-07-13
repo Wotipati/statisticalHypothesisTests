@@ -5,18 +5,18 @@
 ![scipy](https://img.shields.io/badge/scipy-0.19.1-blue.svg)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-# Abstract
+### Abstract
 実験結果やアンケートの回答結果などのデータに対して、**結果に有意差があるか数値的に検証する**際に重要な、**統計的仮説検定**や**信頼区間推定**を行うためのpythonスクリプトを実装しました。  
 
 多くの論文(特にHuman Computer Interaction分野)で使用されている代表的な手法(マン・ホイットニーのU検定やウィルコクソンの符号付き順位検定など)はほとんど実装してあるかと思います。  
 
-
+<br>
 
 **注意) これらのスクリプトは既存の統計システムを用いてチェックしたものですが、100%正しい保証はないです。実際に論文等で使用される際は，使用される方ご自身の責任において行っていただきますようお願いいたします。** 
 
 **私自身、論文で使用してたりするので、もしミスがあったら教えていただけるとホントに助かります。**
 
-
+<br>
 
 ### 統計的仮説検定 (Statistical Hypothesis Tests)
 |            | パラメトリック検定<br>(Parametric test) | ノンパラメトリック検定<br>(Non-parametric test) |
